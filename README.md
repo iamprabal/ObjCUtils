@@ -24,7 +24,7 @@ Counterpart to AtomicInteger from Java. This class uses OS-level atomic operatio
 
 ### Get started
 
-1. Install with [CocoaPods](http://cocoapods.org) or clone from github. Add `pod 'ObjCUtils'` to your `Podfile` and run `pod install`.
+1. Install with [CocoaPods](http://cocoapods.org) or clone from github. Add `pod 'ObjCUtilities'` to your `Podfile` and run `pod install`.
 2. Import the required file e.g. `#import "ConcurrentDictionary.h"` in your code and start using.
 
 
